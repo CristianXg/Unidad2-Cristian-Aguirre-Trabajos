@@ -1,0 +1,19 @@
+a{
+    color: red;
+    text-decoration: none;
+}
+a:visited{
+    color: limegreen;
+}
+
+a:hover{
+    color: #FFF;
+    background: greenyellow;
+    text-decoration: underline;
+}
+a:focus{
+
+}
+a:active{
+
+}
